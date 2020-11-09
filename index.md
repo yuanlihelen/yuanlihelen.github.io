@@ -1,5 +1,5 @@
 ---
-title: Welcome to Yuan's Personal Github Website
+title: Yuan Li's Github Website
 description: Here is how she learns coding
 ---
 
