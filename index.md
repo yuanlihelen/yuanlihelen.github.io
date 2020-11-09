@@ -1,5 +1,6 @@
 ---
-layout: default
+Title: Welcome to Yuan's Personal Github Website
+Description: Here is how she learns Coding
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
