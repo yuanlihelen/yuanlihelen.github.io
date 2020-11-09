@@ -10,4 +10,4 @@ This is a course content link.
 [Into to Visualization with Python](/Visualization/index.md)
 
 This is a video 
-[![Watch the video](https://i.imgur.com/uNGdpXCMrgM.png)](https://youtu.be/uNGdpXCMrgM)
+[![Watch the video](https://img.youtube.com/vi/uNGdpXCMrgM/maxresdefault.jpg)](https://youtu.be/uNGdpXCMrgM)
