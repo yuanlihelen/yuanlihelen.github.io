@@ -1,6 +1,6 @@
 ---
-Title: Welcome to Yuan's Personal Github Website
-Description: Here is how she learns coding
+title: Welcome to Yuan's Personal Github Website
+description: Here is how she learns coding
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
