@@ -7,4 +7,4 @@ Description: Course Content
 - [Matplotlib Graph Aesthetics (ipynb)](MatplotlibGraphAesthetics.ipynb)
 
 
-[Back to Homepage](/index.md)
+[Back to Homepage](index.md)
