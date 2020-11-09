@@ -11,3 +11,6 @@ description: Here is how she learns coding
 
 ## This is a video where you can learn from online.
 [![Watch the video](https://img.youtube.com/vi/uNGdpXCMrgM/maxresdefault.jpg)](https://youtu.be/uNGdpXCMrgM)
+
+## Feel free to check out my other projects!<br>
+[Datacamp Projects](https://github.com/yuanlihelen/Data-Camp)
