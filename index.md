@@ -4,7 +4,7 @@ description: Here is how she learns coding
 ---
 
 This is my profile picture.
-![Profile Picture](/pics/Profile.jpg)
+![Profile Picture](/Profile.jpg)
 
 This is a course content link.
 [Into to Visualization with Python](/Visualization/index.md)
