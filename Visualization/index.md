@@ -1,6 +1,6 @@
 ---
-Title: Into to Matplotlib Package
-Description: Course Content
+title: Into to Matplotlib Package
+description: Course Content
 ---
 ## These are the course contents.
 - [Matplotlib Graph Aesthetics (html)](MatplotlibGraphAesthetics.html)
