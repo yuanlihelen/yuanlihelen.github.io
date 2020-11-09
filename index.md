@@ -3,10 +3,10 @@ title: Yuan Li's Github Website
 description: Here is how she learns coding
 ---
 
-This is my profile picture.\s
+This is my profile picture.<br>
 ![Profile Picture](/Profile.jpg)
 
-This is a course content link.\s
+This is a course content link.<br>
 [Into to Visualization with Python](/Visualization/index.md)
 
 This is a video where you can learn from online.
